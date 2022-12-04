@@ -1,7 +1,7 @@
 <h1 align="center">Hi, it's maze generation program
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<center>Create one color mazes</center>
+<div><center>Create one color mazes</center></div>
 <h2 align="center">
   
 <img src="https://user-images.githubusercontent.com/119759200/205481320-66daa3a2-2e67-477a-aea9-ab1b70e0c6d5.png" width="370" height="250" /></h2>
