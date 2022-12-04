@@ -4,7 +4,7 @@
 Create one color mazes
 
 <h2 align="center">Create one color mazes
-<img src="https://user-images.githubusercontent.com/119759200/205481320-66daa3a2-2e67-477a-aea9-ab1b70e0c6d5.png width="370" height="250"" /></h2>
+<img src="https://user-images.githubusercontent.com/119759200/205481320-66daa3a2-2e67-477a-aea9-ab1b70e0c6d5.png" width="370" height="250" /></h2>
 
 
 or... multicolor
@@ -12,12 +12,12 @@ or... multicolor
 
 
 <h2 align="center">Hi, it's maze generation program
-<img src="https://user-images.githubusercontent.com/119759200/205481536-b78b1c87-99fc-4a22-b480-b9aeea348f56.png width="370" height="250"" /></h2>
+<img src="https://user-images.githubusercontent.com/119759200/205481536-b78b1c87-99fc-4a22-b480-b9aeea348f56.png" width="370" height="250" /></h2>
 
 
 
 <h3 align="center">Hi, it's maze generation program
-<img src="https://user-images.githubusercontent.com/119759200/205481536-b78b1c87-99fc-4a22-b480-b9aeea348f56.png width="370" height="250"" /></h3>
+<img src="https://user-images.githubusercontent.com/119759200/205481536-b78b1c87-99fc-4a22-b480-b9aeea348f56.png" width="370" height="250" /></h3>
 
 
 Find the path between two points
