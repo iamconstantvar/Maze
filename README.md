@@ -4,7 +4,6 @@
 Create one color mazes
 
 <h2 align="center">Create one color mazes
-  
 <img src="https://user-images.githubusercontent.com/119759200/205481320-66daa3a2-2e67-477a-aea9-ab1b70e0c6d5.png width="370" height="250"" /></h2>
 
 
