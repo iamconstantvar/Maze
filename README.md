@@ -33,3 +33,21 @@ You can choose:
 <dd>Cmake >= 3.6</dd>
 <dd>git</dd>
 </dl>
+
+<h1 align="center">Installation</h1>
+<pre>
+<code>
+git clone --recurse-submodules https://github.com/iamconstantvar/Maze
+mkdir build
+cmake ..
+make
+</code>
+</pre>
+
+<h1 align="center">Configuration</h1>
+<pre>
+<code>
+./new_maze [name_of_your_config_file]
+</code>
+</pre>
+
