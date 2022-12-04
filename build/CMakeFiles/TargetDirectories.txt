@@ -1,3 +1,0 @@
-/home/irina/Documents/Maze/build/CMakeFiles/rebuild_cache.dir
-/home/irina/Documents/Maze/build/CMakeFiles/edit_cache.dir
-/home/irina/Documents/Maze/build/CMakeFiles/new_maze.dir
