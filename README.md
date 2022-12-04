@@ -1,7 +1,7 @@
 <h1 align="center">Hi, it's maze generation program
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-Create one color mazes
+<center>Create one color mazes</center>
 <h2 align="center">
   
 <img src="https://user-images.githubusercontent.com/119759200/205481320-66daa3a2-2e67-477a-aea9-ab1b70e0c6d5.png" width="370" height="250" /></h2>
@@ -10,13 +10,14 @@ Create one color mazes
 
 
 
-or... multicolor
+
+<center>or... multicolor</center>
 <h2 align="center">
   
 <img src="https://user-images.githubusercontent.com/119759200/205481536-b78b1c87-99fc-4a22-b480-b9aeea348f56.png" width="370" height="250" /></h2>
 
+<center>Find the path between two points</center>
 
-Find the path between two points
 <h3 align="center">
   
 <img src="https://user-images.githubusercontent.com/119759200/205481660-ac3a3366-085b-4b7d-9063-66f2c7ff56ec.png" width="370" height="250" /></h3>
