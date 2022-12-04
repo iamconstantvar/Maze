@@ -35,6 +35,7 @@ You can choose:
 </dl>
 
 <h1 align="center">Installation</h1>
+To install this program, you need to do the following:
 <pre>
 <code>
 git clone --recurse-submodules https://github.com/iamconstantvar/Maze
@@ -45,6 +46,7 @@ make
 </pre>
 
 <h1 align="center">Configuration</h1>
+After you have installed the program, run it by execution the following command:
 <pre>
 <code>
 ./new_maze [name_of_your_config_file]
