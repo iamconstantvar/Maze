@@ -3,7 +3,6 @@
 
 
 
-<h2 align="center">Program featuresr</h2>
 <p align="center">Create one color mazes</p>
 <h2 align="center">
   
