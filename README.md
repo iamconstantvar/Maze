@@ -1,11 +1,11 @@
 <h1 align="center">Hi, it's maze generation program
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h1 align="center">About author</h1>
+<h4 align="center">
 This program was created by Irina Abramova. It is educational project for OOP practice at BMSTU. You can find this program at
-<a href="https://github.com/iamconstantvar/Maze">my github</a>.
+<a href="https://github.com/iamconstantvar/Maze">my github</a>. </h4>
 
-<h1 align="center">Program featuresr</h1>
+<h2 align="center">Program featuresr</h2>
 <p align="center">Create one color mazes</p>
 <h2 align="center">
   
@@ -23,7 +23,7 @@ This program was created by Irina Abramova. It is educational project for OOP pr
 <img src="https://user-images.githubusercontent.com/119759200/205481660-ac3a3366-085b-4b7d-9063-66f2c7ff56ec.png" /></h3>
 
 
-<h1 align="center">Features </h1>
+<h2 align="center">Features </h2>
 You can choose:
 <dl>
 <dd>lenght</dd>
@@ -32,14 +32,15 @@ You can choose:
 <dd>first point</dd>
 <dd>end point</dd>
 </dl>
-<h1 align="center">Requirements </h1>
+<h2 align="center">Requirements </h2>
 <dl>
 <dd>C++14 </dd>
+<dd>OpenCV</dd>
 <dd>Cmake >= 3.6</dd>
 <dd>git</dd>
 </dl>
 
-<h1 align="center">Installation</h1>
+<h2 align="center">Installation</h2>
 To install this program, you need to do the following:
 <pre>
 <code>
@@ -50,7 +51,7 @@ make
 </code>
 </pre>
 
-<h1 align="center">Configuration</h1>
+<h2 align="center">Configuration</h2>
 After you have installed the program, run it by execution the following command:
 <pre>
 <code>
