@@ -1,6 +1,11 @@
 <h1 align="center">Hi, it's maze generation program
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<h1 align="center">About author</h1>
+This program was created by Irina Abramova. It is educational project for OOP practice at BMSTU. You can find this program at
+<a href="https://github.com/iamconstantvar/Maze">my github</a>.
+
+<h1 align="center">Program featuresr</h1>
 <p align="center">Create one color mazes</p>
 <h2 align="center">
   
@@ -52,4 +57,6 @@ After you have installed the program, run it by execution the following command:
 ./new_maze [name_of_your_config_file]
 </code>
 </pre>
+
+
 
