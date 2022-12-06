@@ -41,7 +41,7 @@ You can choose:
 To install this program, you need to do the following:
 <pre>
 <code>
-git clone --recurse-submodules https://github.com/iamconstantvar/Maze
+git clone https://github.com/iamconstantvar/Maze
 mkdir build
 cd build
 cmake ..
